@@ -12,3 +12,7 @@ ur5e integration with realsensecamera in ros-noetic environment &amp; ubuntu 20
 7. aruco ros (https://github.com/pal-robotics/aruco_ros)
 8. Easy hand eye (https://github.com/IFL-CAMP/easy_handeye)
 9. vision_visp (https://github.com/lagadic/vision_visp/tree/noetic-devel)
+
+
+#Ref
+1. https://zhuanlan.zhihu.com/p/92339362
