@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/toor/catkin_ws/devel/setup.sh
